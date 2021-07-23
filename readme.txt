@@ -7,4 +7,6 @@ Html by exokinetic / Jovana Gaspar
 If you like it, buy me some rum:
 https://beacons.ai/jovanagaspar
 -------------
+Made, with Love, for Lively Wallpaper
+https://rocksdanister.github.io/lively/
 X
