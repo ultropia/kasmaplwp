@@ -1,0 +1,14 @@
+{
+  "AppVersion": "0.8.5.0",
+  "Title": "Kaspersky Cybermap",
+  "Thumbnail": "lively_t.jpg",
+  "Preview": "lively_p.gif",
+  "Desc": "Kaspersky Cyberthreat Map (not live).",
+  "Author": "Kaspersky",
+  "License": null,
+  "Contact": "https://beacons.ai/jovanagaspar",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false
+}
